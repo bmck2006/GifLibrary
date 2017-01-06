@@ -36,8 +36,8 @@ For Developers:
 
 For non-developers
 
-- Once some more work is done on this, I may deploy this for anyone to use online. For now, watch the following video for a demonstration:
+- Once some more work is done on this, I may deploy this for anyone to use online. For now, watch the following video for a demonstration: https://youtu.be/jdOKVHo9zEU
 
 
 Video Demonstration:
-
+https://youtu.be/jdOKVHo9zEU
